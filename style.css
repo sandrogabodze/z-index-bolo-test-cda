@@ -1,0 +1,51 @@
+body {
+    background-color: black;
+    margin: auto;
+   
+}
+
+.photo1 {
+    
+    
+    width: 32.33%;
+    
+    position: absolute;
+    z-index: 2;
+
+}
+
+.photo2 {
+    
+    
+     width: 41.33%;
+    
+    position:absolute;
+    z-index: 1;
+    left: 371px;
+    
+
+}
+
+.photo3 {
+    
+    
+    width: 36.63%;
+    
+    position: absolute;
+    z-index: 3;
+    left: 859px;
+     
+    
+    
+}
+
+p {
+    color: #FFFFFF;
+    position: absolute;
+    z-index: 5;
+    text-align: center;
+    left: 391px;
+    top: 170px;
+    font-weight: 700;
+}
+
